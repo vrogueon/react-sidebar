@@ -1,5 +1,5 @@
 
-React NavBar
+React SideBar
 
 > TO DO 
 ```
